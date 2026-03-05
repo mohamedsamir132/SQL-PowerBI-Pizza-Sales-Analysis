@@ -22,6 +22,7 @@ Before moving to Power BI, I used SQL to extract key metrics to validate my data
 * Calculated **Total Revenue**, **Average Order Value**, and **Total Pizzas Sold**.
 * Grouped sales by **Category** and **Size**.
 * Identified Top 5 and Bottom 5 performing pizzas.
+* ![Details View](SQL code.png)
 
 
 ### 3. Data Visualization (Power BI)
@@ -32,6 +33,7 @@ Before moving to Power BI, I used SQL to extract key metrics to validate my data
 
 ## 📊 Dashboard Preview
 ![Dashboard Image](Home.png) 
+![Details View](Detailes.png)
 
 ## 💡 Key Insights
 1.  **Peak Activity:** The store is busiest on Fridays and Saturdays between 12:00 PM - 1:00 PM and 5:00 PM - 8:00 PM.
