@@ -22,7 +22,7 @@ Before moving to Power BI, I used SQL to extract key metrics to validate my data
 * Calculated **Total Revenue**, **Average Order Value**, and **Total Pizzas Sold**.
 * Grouped sales by **Category** and **Size**.
 * Identified Top 5 and Bottom 5 performing pizzas.
-* ![Details View](SQL code.png)
+![Details View](SQL code.png)
 
 
 ### 3. Data Visualization (Power BI)
